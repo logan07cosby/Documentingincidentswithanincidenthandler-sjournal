@@ -17,21 +17,14 @@ In this project, a security incident is reviewed, and documented using an incide
 
 - <b>Windows 10</b> 
 
-<h2>Vulnerability assessment walk-through:</h2>
+<h2>Jurnal entry walk-through:</h2>
 
 <p align="center">
-Risk assesment: <br/>
-<img src="vul 1.PNG" height="80%" width="80%" alt=""/>
+Jurnal entry #1: <br/>
+<img src="jurn 1.PNG" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Approach:  <br/>
-<img src="vul 2.PNG" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Remediation Strategy: <br/>
-<img src="vul 3.PNG" height="80%" width="80%" alt=""/>
-<br />
-<br />
+
 
 
 <!--
